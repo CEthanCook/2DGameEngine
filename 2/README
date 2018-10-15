@@ -1,0 +1,21 @@
+Name: Ethan Cook
+
+Course: CPSC 4160
+
+Clemson Email Address: creigh3@clemson.edu
+
+Project no: 2
+
+Project due date: Sept. 21, 2018
+
+Project description: A recreation of the Fortnite Llama, complete in his natural habitat.
+Majority of the image is made up of SDL_Rect and FilledTrapezoid, which
+is a very shoddy workaround for not being able to draw polygons (it uses DrawFilledTriangle
+to draw the trapezoid using 2 triangles - points just have to be in the right order).
+Inspiration for drawing is located in inspiration/fortnite_llama.png.
+
+The easiest part of this project: Drawing a rectangle
+
+Problems that I had in completing this project: Was trying to use a simple slope
+formula to determine a point on a line given two other points, but due to SDL's
+coordinate system I couldn't get it to work. (Maybe I'm just dumb)
