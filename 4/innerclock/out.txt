@@ -1,0 +1,10 @@
+Loading complete
+Terminating program
+Deleting images in Factory
+deleting Platform
+deleting Platform2
+deleting buildings
+deleting floor
+deleting skyline
+deleting Bomb
+deleting Player
